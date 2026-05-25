@@ -7,6 +7,7 @@
 -Pandas
 -Matplotlib
 -Scikit-learn
+-SQL
 
 ## Models
 -Linear Regression
